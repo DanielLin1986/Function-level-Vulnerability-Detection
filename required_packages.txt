@@ -1,0 +1,10 @@
+Anaconda 3            # Python framework and libraries (not tested on Python 2)
+tensorflow-gpu        # Model training & learning
+keras                 # A high-level abstraction on top of Tensorflow
+sklearn(scikit-learn) # A machine learning toolkit in Python
+numpy                 # Support for arrays & matrices manipulation
+pandas                # Support for data manipulation and analysis
+matplotlib            # Result visualization
+yaml                  # Configuration of parser
+gensim                # A free Python library for topic modeling and natural language processing (supporting Python implementation of Word2vec and FastText)
+glove                 # A Python library for GLoVe implementation
